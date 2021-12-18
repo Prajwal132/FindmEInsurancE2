@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LifeInsuranceQuotationTool</string>
+    <string-array name="term_array">
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+    </string-array>
+    <string-array name="premium_frequency">
+        <item>Monthly</item>
+        <item>Quarterly</item>
+        <item>Semi Annual</item>
+        <item>Annual</item>
+    </string-array>
+
+</resources>
